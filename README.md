@@ -1,4 +1,4 @@
-# MemoryForensicSamples
+# Memory Forensics Samples
 I reviewed the entirety of the Internet and pulled links to various memory samples. There are more out there, so if you find them please let me know. 
 
 Links to various memory samples:
