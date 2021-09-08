@@ -132,8 +132,6 @@ CyberDefenders
 	
   Original Link: https://cyberdefenders.org/labs/65
 ####################################################################
- 
- 
 
 SDN Forensics Challenge, 2016
 
