@@ -16,7 +16,7 @@ InCTF Internationals 2019
 	
   Original Link: https://blog.bi0s.in/2019/09/24/Forensics/InCTFi19-NotchItUp/ 
 	
-  Link to Mega download: https://mega.nz/#!kypmTaLJ!cWChsh8CdTMTWt7Ae0oNiCFfrSXwK8vqEMGn0SO22JQ 
+  Link to download: https://drive.google.com/file/d/1bER4wmHP_LAMgdB52LGkb8x2Mf8hG3V6/view?usp=drivesdk 
 	####################################################################
 
 Samsclass.info Analyzing a RAM image with Volatility 
@@ -25,7 +25,7 @@ Samsclass.info Analyzing a RAM image with Volatility
 	
   Original Link: https://samsclass.info/121/proj/p5-Vol.htm
 	
-  Mega Link: https://mega.nz/file/Y5QlCKyK#3aWNR7PFuk5IboILKg0v1eaX3jJ6oKfAcu5iBH2ViJE 
+  Link to download: https://samsclass.info/121/proj/memdump.7z 
 ####################################################################
 
 13Cubed Memory Forensics CTF
@@ -115,7 +115,7 @@ Houseplant CTF 2020 - Imagery
 	
   Original Link: https://ctftime.org/writeup/20330
 	
-  Mega Link: https://mega.nz/file/R00hgCIa#e0gMZjsGI0cqw88GzbEzKhcijWGTEPQsst4QMfRlNqg
+  Link to Download: https://drive.google.com/file/d/1y4sfIaUrAOK0wXiDZXiOI-q2SYs6M--g/view?usp=sharing
 ####################################################################
   
 AboutDFIR
