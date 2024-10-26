@@ -128,15 +128,16 @@ AboutDFIR
 
 CyberDefenders
 
-  Sample: Analyst must determine the profile 
+  Sample: Analyst must determine the type of sample 
 	
   Original Link: https://cyberdefenders.org/labs/65
   
-####################################################################
+#################################################################### 
 
-SDN Forensics Challenge, 2016
+Total Recall, 2024
 
-  Sample: Analyst must determine the profile 
+  Sample: Windows 10
 	
-  Original Link: https://www.cmand.org/sdn/sdnf.html
+  Original Link: https://github.com/SecurityNik/CTF
+  Write up: https://www.securitynik.com/2024/03/total-recall-2024-memory-forensics-self.html?m=1 
 #################################################################### 
