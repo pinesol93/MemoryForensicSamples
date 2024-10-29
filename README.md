@@ -141,18 +141,21 @@ Total Recall, 2024
   Original Link: https://github.com/SecurityNik/CTF
   Write up: https://www.securitynik.com/2024/03/total-recall-2024-memory-forensics-self.html?m=1 
 #################################################################### 
+
 Defcon 2019
 
 Sample: Unknown memory sample & Dead Disk
 
 Original Link: https://www.dropbox.com/scl/fo/4wi8n7fm01yfcbwv4nom5/AIO_qWCQRyjl9-QtLa70wrE?rlkey=4uu6og3vph3rth8lp1ap86f9c&e=1&dl=0
 #################################################################### 
+
 Cyberspace, 2024
 
 Sample: Windows 64bit crash dump
 
 Original Link: https://starlox.medium.com/cyberspace2024-memory-ctf-interesting-forensics-challenge-0a76eb00f027
 ####################################################################
+
 Try and Hack Me 
 
 Sample: Win7SP1x64
@@ -161,3 +164,11 @@ Original Link: https://tryhackme.com/r/room/memoryforensics
 
 
 Write up: https://github.com/1d8/ctf/blob/main/solutions/thm_memory_forensics.md
+
+####################################################################
+
+Find My Pass - HackTM CTF Quals 2020
+
+Sample: Win7SP1x86
+
+Write up: https://blog.bi0s.in/2020/02/09/Forensics/HackTM-FindMyPass/
