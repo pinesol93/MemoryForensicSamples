@@ -40,6 +40,7 @@ Samsclass.info Analyzing a RAM image with Volatility
 WannaCry Memory Analysis
 
   Sample: Windows XP SP3 
+  
   Password: infected
 	
   Original Link: https://www.null0x4d5a.com/2017/05/memory-analsyis-of-wannacry-ransomware.html 
