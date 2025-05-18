@@ -174,3 +174,17 @@ Find My Pass - HackTM CTF Quals 2020
 Sample: Win7SP1x86
 
 Write up: https://blog.bi0s.in/2020/02/09/Forensics/HackTM-FindMyPass/
+
+####################################################################
+
+Volatility Workbench 
+
+Sample: Win11, Win10, MacOSX Maverick 
+
+Write up:
+https://www.osforensics.com/tools/volatility-workbench.html
+
+Link to Download:
+- https://www.osforensics.com/downloads/Win11Dump.zip
+- https://www.osforensics.com/downloads/WinDump.zip
+- https://www.osforensics.com/downloads/MacDump.zip
