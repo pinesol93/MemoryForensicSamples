@@ -188,3 +188,12 @@ Link to Download:
 - https://www.osforensics.com/downloads/Win11Dump.zip
 - https://www.osforensics.com/downloads/WinDump.zip
 - https://www.osforensics.com/downloads/MacDump.zip
+####################################################################
+
+13 Cubed Memory Challenge #2
+
+Sample: Windows
+
+Write up: https://www.iblue.team/ctf-challenges/13cubed-windows-memory-forensics
+
+Link to Download: https://cdn.13cubed.com/downloads/windows_challenge.zip
